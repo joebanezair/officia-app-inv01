@@ -1,0 +1,23 @@
+  npm start
+  npm run build
+  npm test
+  npm run eject
+
+  Removes this tool and copies build dependencies, configuration files
+  and scripts into the app directory. If you do this, you can’t go back!
+
+  cd officia01
+  npm start
+
+
+commands yarn:
+to install all items "yarn"
+- yarn add firebase
+- yarn add react-router-dom
+- yarn add add-redux
+
+
+- yarn add @mui/material @emotion/react @emotion/styled
+- yarn add @mui/material @mui/styled-engine-sc styled-components
+- yarn add react-icons
+- yarn add react-router-dom
